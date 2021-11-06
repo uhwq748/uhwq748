@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @uhwq748
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-uhwq748/uhwq748 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!Doctype html>
+<html>
+<head>
+<title>SAMEER KUMAR PATRA<title>
+</head>
+<body>
+<p>Iam sameer kumar patra currently pursuing BTECH 4th year, I have completed my internship with two projects under VERZEO. And now I am willing/ looking for a job to show my skills and strengthening myself</p>
+</body>
+</html>
